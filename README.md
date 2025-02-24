@@ -1,5 +1,5 @@
 # COVID19_wastewater_freyja
-COVID-19 analysis of sewage samples using Freyja
+COVID-19 analysis of sewage samples using automaed Freyja
 
 This pipeline is designed to automate SARS-CoV-2 wastewater sequencing data. It uses PE illumina sequencing data with BWA-mem, then processes the BAM files with Freyja to create an aggregated csv summary file and figure. 
 
