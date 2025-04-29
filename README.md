@@ -6,7 +6,7 @@ This pipeline is designed to automate SARS-CoV-2 wastewater sequencing data. It 
 This pipeline was written as a shell script, and the results can be obtained through the oneline command line.
 
 **Configuration**
-1. BWA and Freyja must be installed in advance
+1. BWA, Samtools and Freyja must be installed in advance
 2. Clone repo
 
 If only a R1 filename is found, it will be error.
